@@ -1,13 +1,3 @@
-#u326
-{
-	position: relative;
-}
-
-#u326_clip
-{
-	overflow: hidden;
-}
-
 #u529
 {
 	border-style: none;
@@ -19,7 +9,17 @@
 	position: relative;
 }
 
-#u341,#u342,#u343,#u344,#u691
+#u326_clip,#u1007_clip
+{
+	overflow: hidden;
+}
+
+#u326,#u1007,#u1555
+{
+	position: relative;
+}
+
+#u341,#u342,#u343,#u344,#u691,#u1063,#u1589
 {
 	border-width: 1px;
 	border-style: solid;

@@ -85,8 +85,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	margin-bottom: -1px;
@@ -180,8 +180,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	margin-bottom: -1px;
@@ -291,8 +291,8 @@
 #widgetu303.frm-sub-st #u310-4 p
 {
 	color: #999999;
-	line-height: 1;
 	font-size: 14px;
+	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -307,8 +307,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 14px;
 	color: #FF0000;
+	line-height: 14px;
 	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -320,8 +320,8 @@
 #widgetu303.frm-subm-err-st #u309-4 p
 {
 	color: #D7244C;
-	line-height: 1;
 	font-size: 14px;
+	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -336,8 +336,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 12px;
 	color: #00FF00;
+	line-height: 12px;
 	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
