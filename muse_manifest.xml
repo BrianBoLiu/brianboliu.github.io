@@ -1,41 +1,41 @@
 <manifest alg="2" build="314" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="master_a-master.css" crc="3969002170" ref="message-friend:search-results:manage:invite:mesages:search-friend:chat:willow:personal:create-event:project:data:map2:friends:map:upgrade:register:data-copy-copy-copy:photo:today:finders:event:settings:event-search:later-on:gps:data-copy:data-copy-copy:my-events:live-feed:chat2:locate"/>
-    <file name="message-friend.css" crc="423167264" ref="message-friend"/>
-    <file name="search-results.css" crc="3919967533" ref="search-results"/>
-    <file name="manage.css" crc="495787111" ref="manage"/>
-    <file name="invite.css" crc="92101357" ref="invite"/>
-    <file name="mesages.css" crc="4165904031" ref="mesages"/>
-    <file name="search-friend.css" crc="41019922" ref="search-friend"/>
-    <file name="index.css" crc="107188463" ref="index"/>
-    <file name="chat.css" crc="3969906666" ref="chat"/>
-    <file name="willow.css" crc="3761942817" ref="willow"/>
-    <file name="personal.css" crc="3758587195" ref="personal"/>
-    <file name="create-event.css" crc="3811077666" ref="create-event"/>
-    <file name="project.css" crc="286619957" ref="project"/>
-    <file name="data.css" crc="3760217826" ref="data"/>
-    <file name="map2.css" crc="357559959" ref="map2"/>
-    <file name="friends.css" crc="3957337861" ref="friends"/>
-    <file name="map.css" crc="4285650576" ref="map"/>
-    <file name="upgrade.css" crc="527372478" ref="upgrade"/>
-    <file name="advertisement.css" crc="3758979251" ref="advertisement"/>
-    <file name="register.css" crc="244021044" ref="register"/>
-    <file name="data-copy-copy-copy.css" crc="526586296" ref="data-copy-copy-copy"/>
-    <file name="photo.css" crc="4216883883" ref="photo"/>
-    <file name="today.css" crc="74288272" ref="today"/>
-    <file name="finders.css" crc="226425628" ref="finders"/>
-    <file name="event.css" crc="66862464" ref="event"/>
-    <file name="settings.css" crc="4082197703" ref="settings"/>
-    <file name="event-search.css" crc="28745179" ref="event-search"/>
-    <file name="later-on.css" crc="4192528447" ref="later-on"/>
+    <file name="master_a-master.css" crc="3969002170" ref="gps:settings:data-copy-copy-copy:event:live-feed:mesages:upgrade:chat:personal:search-friend:invite:create-event:message-friend:friends:locate:register:my-events:finders:photo:event-search:later-on:today:data:map:project:search-results:map2:data-copy:willow:data-copy-copy:manage:chat2"/>
     <file name="gps.css" crc="3993979172" ref="gps"/>
-    <file name="data-copy.css" crc="4055779964" ref="data-copy"/>
-    <file name="data-copy-copy.css" crc="17677301" ref="data-copy-copy"/>
-    <file name="my-events.css" crc="201510785" ref="my-events"/>
+    <file name="settings.css" crc="4082197703" ref="settings"/>
+    <file name="data-copy-copy-copy.css" crc="526586296" ref="data-copy-copy-copy"/>
+    <file name="event.css" crc="66862464" ref="event"/>
     <file name="live-feed.css" crc="210498912" ref="live-feed"/>
-    <file name="chat2.css" crc="31482332" ref="chat2"/>
+    <file name="mesages.css" crc="4165904031" ref="mesages"/>
+    <file name="upgrade.css" crc="4006529792" ref="upgrade"/>
+    <file name="chat.css" crc="3969906666" ref="chat"/>
+    <file name="personal.css" crc="3758587195" ref="personal"/>
+    <file name="search-friend.css" crc="41019922" ref="search-friend"/>
+    <file name="invite.css" crc="92101357" ref="invite"/>
+    <file name="create-event.css" crc="487068293" ref="create-event"/>
+    <file name="message-friend.css" crc="423167264" ref="message-friend"/>
+    <file name="friends.css" crc="3957337861" ref="friends"/>
     <file name="locate.css" crc="3984678083" ref="locate"/>
+    <file name="register.css" crc="244021044" ref="register"/>
+    <file name="my-events.css" crc="201510785" ref="my-events"/>
+    <file name="finders.css" crc="226425628" ref="finders"/>
+    <file name="photo.css" crc="4216883883" ref="photo"/>
+    <file name="event-search.css" crc="28745179" ref="event-search"/>
+    <file name="later-on.css" crc="125454566" ref="later-on"/>
+    <file name="today.css" crc="480093084" ref="today"/>
+    <file name="data.css" crc="3760217826" ref="data"/>
+    <file name="map.css" crc="4285650576" ref="map"/>
+    <file name="project.css" crc="286619957" ref="project"/>
+    <file name="search-results.css" crc="101545457" ref="search-results"/>
+    <file name="advertisement.css" crc="3758979251" ref="advertisement"/>
+    <file name="map2.css" crc="357559959" ref="map2"/>
+    <file name="data-copy.css" crc="4055779964" ref="data-copy"/>
+    <file name="willow.css" crc="3761942817" ref="willow"/>
+    <file name="data-copy-copy.css" crc="17677301" ref="data-copy-copy"/>
+    <file name="manage.css" crc="495787111" ref="manage"/>
+    <file name="index.css" crc="107188463" ref="index"/>
+    <file name="chat2.css" crc="31482332" ref="chat2"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="live-feed:index:settings:mesages:chat:create-event:friends:register:finders:event-search:later-on:today:map:map2:willow:manage:chat2:gps:event:upgrade:personal:search-friend:invite:message-friend:locate:my-events:photo:data:project:search-results:advertisement:data-copy:data-copy-copy:data-copy-copy-copy"/>
@@ -120,13 +120,13 @@
   <file name="settings.html" crc="211427265" mt="1433405285534" redirect="true"/>
   <file name="mesages.html" crc="3926186690" mt="1433405285536" redirect="true"/>
   <file name="chat.html" crc="4293886858" mt="1433405285537" redirect="true"/>
-  <file name="create-event.html" crc="189146826" mt="1433405285538" redirect="true"/>
+  <file name="create-event.html" crc="4132672097" mt="1433733132553" redirect="true"/>
   <file name="friends.html" crc="4207454424" mt="1433405285539" redirect="true"/>
   <file name="register.html" crc="4255365071" mt="1433405285540" redirect="true"/>
   <file name="finders.html" crc="4143771405" mt="1433405285542" redirect="true"/>
   <file name="event-search.html" crc="265135145" mt="1433405285543" redirect="true"/>
-  <file name="later-on.html" crc="3939952206" mt="1433408302569" redirect="true"/>
-  <file name="today.html" crc="265048330" mt="1433405285545" redirect="true"/>
+  <file name="later-on.html" crc="3866586331" mt="1433735866529" redirect="true"/>
+  <file name="today.html" crc="63519831" mt="1433734665528" redirect="true"/>
   <file name="map.html" crc="155832555" mt="1433405285547" redirect="true"/>
   <file name="map2.html" crc="3837273092" mt="1433405285548" redirect="true"/>
   <file name="willow.html" crc="379248247" mt="1433405285549" redirect="true"/>
@@ -134,7 +134,7 @@
   <file name="chat2.html" crc="284518683" mt="1433405285552" redirect="true"/>
   <file name="gps.html" crc="4043110664" mt="1433405285553" redirect="true"/>
   <file name="event.html" crc="322986616" mt="1433405285554" redirect="true"/>
-  <file name="upgrade.html" crc="4152709532" mt="1433405285582" redirect="true"/>
+  <file name="upgrade.html" crc="3912474728" mt="1433733381406" redirect="true"/>
   <file name="personal.html" crc="329193936" mt="1433405285584" redirect="true"/>
   <file name="search-friend.html" crc="249248780" mt="1433405285585" redirect="true"/>
   <file name="invite.html" crc="45208536" mt="1433408404648" redirect="true"/>
@@ -144,9 +144,9 @@
   <file name="photo.html" crc="510724822" mt="1433405285591" redirect="true"/>
   <file name="data.html" crc="211163158" mt="1433405285593" redirect="true"/>
   <file name="project.html" crc="4184827588" mt="1433405285594" redirect="true"/>
-  <file name="search-results.html" crc="3925671209" mt="1433405285595" redirect="true"/>
+  <file name="search-results.html" crc="3898464402" mt="1433732159686" redirect="true"/>
   <file name="advertisement.html" crc="4098826278" mt="1433408140344" redirect="true"/>
   <file name="data-copy.html" crc="99547716" mt="1433407530200" redirect="true"/>
-  <file name="data-copy-copy.html" crc="259048256" mt="1433408085433" redirect="true"/>
+  <file name="data-copy-copy.html" crc="372362872" mt="1433734648953" redirect="true"/>
   <file name="data-copy-copy-copy.html" crc="59862652" mt="1433407810365" redirect="true"/>
 </manifest>
